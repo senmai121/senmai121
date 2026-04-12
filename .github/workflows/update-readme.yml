@@ -7,6 +7,9 @@ on:
     branches: [main]       # รันทุกครั้งที่ push ขึ้น main ด้วย
   workflow_dispatch:        # กด Run manually ได้จาก GitHub Actions tab
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # opt-in Node.js 24
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
