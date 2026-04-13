@@ -52,15 +52,17 @@ I enjoy designing APIs, thinking about architecture, and shipping features that 
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
-### 📦 Personal Financial Agent — [API](https://github.com/senmai121/personal_financial_agent_go) · [UI](https://github.com/senmai121/personal_financial_agent_ui) · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
-> Back End API  Part of Personal Financial Advisory : Developed by GO 
+### 📦 Personal Financial Agent · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
+
+- **[API](https://github.com/senmai121/personal_financial_agent_go)** — Back End API  Part of Personal Financial Advisory : Developed by GO 
+- **[UI](https://github.com/senmai121/personal_financial_agent_ui)** — Front End Part of Personal Financial Advisory Agent Developed by Next.js
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
 
-<sub>🤖 Auto-updated: 2026-04-13 14:43 UTC</sub>
+<sub>🤖 Auto-updated: 2026-04-13 14:45 UTC</sub>
 <!-- PROJECTS_END -->
 
 
