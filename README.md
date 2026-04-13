@@ -52,6 +52,15 @@ I enjoy designing APIs, thinking about architecture, and shipping features that 
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
+### 📦 Resume Analyzer · [🌐 Live](https://resume-analyzer-ui-navy.vercel.app)
+
+- **[UI](https://github.com/senmai121/resume_analyzer_ui)** — Front End Part of Personal Financial Advisory : Developed by Next.js
+- **[Resumepdfanalyzer](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+---
+
 ### 📦 Personal Financial Agent · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
 
 - **[API](https://github.com/senmai121/personal_financial_agent_go)** — Back End API  Part of Personal Financial Advisory : Developed by GO 
@@ -69,7 +78,7 @@ I enjoy designing APIs, thinking about architecture, and shipping features that 
 ---
 
 
-<sub>🤖 Auto-updated: 2026-04-13 14:57 UTC</sub>
+<sub>🤖 Auto-updated: 2026-04-13 15:01 UTC</sub>
 <!-- PROJECTS_END -->
 
 
