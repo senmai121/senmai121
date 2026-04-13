@@ -61,8 +61,15 @@ I enjoy designing APIs, thinking about architecture, and shipping features that 
 
 ---
 
+### 📦 [My Port Folio](https://github.com/senmai121/my-port-folio) · [🌐 Live](https://kanachain.vercel.app/)
+> My Personal Website , Built by Next.js for Full Stack
 
-<sub>🤖 Auto-updated: 2026-04-13 14:45 UTC</sub>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+
+<sub>🤖 Auto-updated: 2026-04-13 14:57 UTC</sub>
 <!-- PROJECTS_END -->
 
 
