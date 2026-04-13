@@ -114,8 +114,13 @@ def group_repos(repos):
             "sub_repos": [repo],
         })
 
-    # Sort: grouped first, then by stars desc → updated desc
-    projects.sort(key=lambda p: (0 if p["is_group"] else 1, -p["stars"]))
+    # Sort: grouped first → stars desc → updated desc  (mirrors index.html logic)
+    def sort_key(p):
+        from datetime import datetime
+        ts = datetime.fromisoformat(p["updated"].replace("Z", "+00:00")).timestamp()
+        return (0 if p["is_group"] else 1, -p["stars"], -ts)
+
+    projects.sort(key=sort_key)
     return projects[:MAX_PROJECTS]
 
 
