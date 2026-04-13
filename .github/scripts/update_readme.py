@@ -126,25 +126,30 @@ def group_repos(repos):
 
 def project_to_markdown(project):
     title    = project["name"]
-    desc     = project["desc"] or "_No description provided._"
     stars    = project["stars"]
     langs    = project["langs"]
     homepage = project["homepage"]
 
     if project["is_group"]:
-        sub_links = " · ".join(
-            f"[{detect_role(r)}]({r['html_url']})"
-            for r in project["sub_repos"]
-        )
-        title_line = f"### 📦 {title} — {sub_links}"
+        title_line = f"### 📦 {title}"
+        if homepage:
+            title_line += f" · [🌐 Live]({homepage})"
+
+        # Each sub-repo gets its own line: role link + description
+        sub_lines = []
+        for r in project["sub_repos"]:
+            role = detect_role(r)
+            desc = r.get("description") or "_No description_"
+            sub_lines.append(f"- **[{role}]({r['html_url']})** — {desc}")
+
+        lines = [title_line, ""] + sub_lines + [""]
     else:
         repo = project["sub_repos"][0]
         title_line = f"### 📦 [{title}]({repo['html_url']})"
-
-    if homepage:
-        title_line += f" · [🌐 Live]({homepage})"
-
-    lines = [title_line, f"> {desc}", ""]
+        if homepage:
+            title_line += f" · [🌐 Live]({homepage})"
+        desc = repo.get("description") or "_No description provided._"
+        lines = [title_line, f"> {desc}", ""]
 
     meta = []
     for lang in langs:
