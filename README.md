@@ -57,15 +57,33 @@ Enterprise developer with **10+ years in ASP.NET** and **7 years specializing in
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
-### 📦 Personal Financial Agent — [API](https://github.com/senmai121/personal_financial_agent_go) · [UI](https://github.com/senmai121/personal_financial_agent_ui) · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
-> Back End API  Part of Personal Financial Advisory : Developed by GO 
+### 📦 Resume Analyzer · [🌐 Live](https://resume-analyzer-ui-navy.vercel.app)
+
+- **[UI](https://github.com/senmai121/resume_analyzer_ui)** — Front End Part of Personal Financial Advisory : Developed by Next.js
+- **[Resumepdfanalyzer](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+---
+
+### 📦 Personal Financial Agent · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
+
+- **[API](https://github.com/senmai121/personal_financial_agent_go)** — Back End API  Part of Personal Financial Advisory : Developed by GO 
+- **[UI](https://github.com/senmai121/personal_financial_agent_ui)** — Front End Part of Personal Financial Advisory Agent Developed by Next.js
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
+### 📦 [My Port Folio](https://github.com/senmai121/my-port-folio) · [🌐 Live](https://kanachain.vercel.app/)
+> My Personal Website , Built by Next.js for Full Stack
 
-<sub>🤖 Auto-updated: 2026-04-13 14:43 UTC</sub>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+
+<sub>🤖 Auto-updated: 2026-04-14 01:20 UTC</sub>
 <!-- PROJECTS_END -->
 
 
