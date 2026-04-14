@@ -65,7 +65,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ### 📦 Resume Analyzer · [🌐 Live](https://resume-analyzer-ui-navy.vercel.app)
 
 - **[UI](https://github.com/senmai121/resume_analyzer_ui)** — Front End Part of Personal Financial Advisory : Developed by Next.js
-- **[Resumepdfanalyzer](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core
+- **[API](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core and LLM from Open Router (Model : google/gemini-2.0-flash-001)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
@@ -73,8 +73,8 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 
 ### 📦 Personal Financial Agent · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
 
-- **[API](https://github.com/senmai121/personal_financial_agent_go)** — Back End API  Part of Personal Financial Advisory : Developed by GO 
-- **[UI](https://github.com/senmai121/personal_financial_agent_ui)** — Front End Part of Personal Financial Advisory Agent Developed by Next.js
+- **[API](https://github.com/senmai121/personal_financial_agent_go)** — Back End API  Part of Personal Financial Advisory : Developed by GO  and LLM from Open Router (Model : google/gemini-2.0-flash-001)
+- **[UI](https://github.com/senmai121/personal_financial_agent_ui)** — Front End Part of Personal Financial Advisory Agent : Developed by Next.js
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -88,7 +88,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-04-14 06:41 UTC</sub>
+<sub>🤖 Auto-updated: 2026-04-14 13:56 UTC</sub>
 <!-- PROJECTS_END -->
 
 
