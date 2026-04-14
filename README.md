@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kanachai Niyomsilpchai
 
-**Full-Stack Developer** · Backend-focused · Based in Thailand 🇹🇭
+**Enterprise .NET & ERP Developer** · Transitioning to Modern Stack · Based in Thailand 🇹🇭
 
 [![Email](https://img.shields.io/badge/Email-kanachai.niyom%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:kanachai.niyom@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=flat-square&logo=github)](https://senmai121.github.io)
@@ -13,24 +13,29 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Full-Stack Developer with a passion for building **robust, scalable backend systems** and clean web interfaces.
-I enjoy designing APIs, thinking about architecture, and shipping features that actually work in production.
+Enterprise developer with **10+ years in ASP.NET** and **7 years specializing in ERP NetSuite** — building integrations, customizations, and business-critical workflows for production systems.
 
-- 🔭 Currently working on backend services with **Go** and **C# .NET Core**
-- 🌐 Building modern web apps with **Next.js**
+- 💼 Core expertise in **ASP.NET**, **NetSuite ERP**, and **SuiteScript**
+- 🔀 Transitioning from classic ASP.NET → **.NET Core**
+- 🌱 Exploring **Go** and building personal projects with **Next.js** on the side
 - 📫 Reach me at **kanachai.niyom@gmail.com**
-- 🌱 Always learning — currently exploring **distributed systems** and **clean architecture**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**Enterprise (Production)**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_10%2B_yrs-239120?style=flat-square&logo=dotnet&logoColor=white)
+![NetSuite](https://img.shields.io/badge/NetSuite_ERP_7_yrs-00467F?style=flat-square&logo=oracle&logoColor=white)
+![SuiteScript](https://img.shields.io/badge/SuiteScript-00467F?style=flat-square&logo=javascript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Transitioning & Exploring**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core_(transitioning)-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**
 
