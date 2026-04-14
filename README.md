@@ -46,7 +46,9 @@ Enterprise developer with **10+ years in ASP.NET** and **7 years specializing in
 
 **Database & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -57,28 +59,10 @@ Enterprise developer with **10+ years in ASP.NET** and **7 years specializing in
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
-### 📦 Resume Analyzer · [🌐 Live](https://resume-analyzer-ui-navy.vercel.app)
-
-- **[UI](https://github.com/senmai121/resume_analyzer_ui)** — Front End Part of Personal Financial Advisory : Developed by Next.js
-- **[Resumepdfanalyzer](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
----
-
-### 📦 Personal Financial Agent · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
-
-- **[API](https://github.com/senmai121/personal_financial_agent_go)** — Back End API  Part of Personal Financial Advisory : Developed by GO 
-- **[UI](https://github.com/senmai121/personal_financial_agent_ui)** — Front End Part of Personal Financial Advisory Agent Developed by Next.js
+### 📦 Personal Financial Agent — [API](https://github.com/senmai121/personal_financial_agent_go) · [UI](https://github.com/senmai121/personal_financial_agent_ui) · [🌐 Live](https://personal-financial-agent-ui.vercel.app)
+> Back End API  Part of Personal Financial Advisory : Developed by GO 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-### 📦 [My Port Folio](https://github.com/senmai121/my-port-folio) · [🌐 Live](https://kanachain.vercel.app/)
-> My Personal Website , Built by Next.js for Full Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
