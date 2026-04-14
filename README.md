@@ -13,9 +13,12 @@
 
 ## 🧑‍💻 About Me
 
-Enterprise developer with **10+ years in ASP.NET** and **7 years specializing in ERP NetSuite** — building integrations, customizations, and business-critical workflows for production systems.
+Enterprise developer with **10+ years in ASP.NET** and **7 years delivering ERP solutions on NetSuite**.
+
+ERP work demands more than code — it trains you to map end-to-end business processes, run gap analysis between business needs and system capabilities, and translate complex requirements from finance, inventory, and operations into working solutions. That analytical thinking carries into everything I build.
 
 - 💼 Core expertise in **ASP.NET**, **NetSuite ERP**, and **SuiteScript**
+- 🔍 Strong background in **business process analysis** and **requirements translation**
 - 🔀 Transitioning from classic ASP.NET → **.NET Core**
 - 🌱 Exploring **Go** and building personal projects with **Next.js** on the side
 - 📫 Reach me at **kanachai.niyom@gmail.com**
