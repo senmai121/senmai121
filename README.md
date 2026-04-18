@@ -64,10 +64,10 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 <!-- PROJECTS_START -->
 ### 📦 Resume Analyzer · [🌐 Live](https://resume-analyzer-ui-navy.vercel.app)
 
-- **[UI](https://github.com/senmai121/resume_analyzer_ui)** — Front End Part of Personal Financial Advisory : Developed by Next.js
 - **[API](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core and LLM from Open Router (Model : google/gemini-2.0-flash-001)
+- **[UI](https://github.com/senmai121/resume_analyzer_ui)** — Front End Part of Personal Financial Advisory : Developed by Next.js
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -88,7 +88,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-04-17 01:20 UTC</sub>
+<sub>🤖 Auto-updated: 2026-04-18 01:13 UTC</sub>
 <!-- PROJECTS_END -->
 
 
