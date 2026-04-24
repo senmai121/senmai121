@@ -62,6 +62,15 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
+### 📦 Sales Analyzer · [🌐 Live](https://sales-analyzer-ui.vercel.app)
+
+- **[UI](https://github.com/senmai121/sales-analyzer-ui)** — _No description_
+- **[API](https://github.com/senmai121/sales_analyzer_api)** — _No description_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+---
+
 ### 📦 Resume Analyzer · [🌐 Live](https://resume-analyzer-ui-navy.vercel.app)
 
 - **[API](https://github.com/senmai121/ResumePDFAnalyzer)** — Back End API Part of Resume Analyzer Agent developed by .NET Core and LLM from Open Router (Model : google/gemini-2.0-flash-001)
@@ -88,7 +97,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-04-23 01:23 UTC</sub>
+<sub>🤖 Auto-updated: 2026-04-24 01:22 UTC</sub>
 <!-- PROJECTS_END -->
 
 
