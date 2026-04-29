@@ -62,6 +62,15 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
+### 📦 Field Service Management · [🌐 Live](https://field-service-management-ui.vercel.app)
+
+- **[UI](https://github.com/senmai121/field_service_management_ui)** — _No description_
+- **[API](https://github.com/senmai121/field_service_management_api)** — _No description_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+---
+
 ### 📦 Sales Analyzer · [🌐 Live](https://sales-analyzer-ui.vercel.app)
 
 - **[UI](https://github.com/senmai121/sales-analyzer-ui)** — _No description_
@@ -97,7 +106,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-04-28 01:45 UTC</sub>
+<sub>🤖 Auto-updated: 2026-04-29 01:48 UTC</sub>
 <!-- PROJECTS_END -->
 
 
