@@ -62,7 +62,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ## 🚀 Featured Projects
 
 <!-- PROJECTS_START -->
-### 📦 Field Service Management · [🌐 Live](https://field-service-management-ui.vercel.app)
+### 📦 Field Service Management · [🌐 Live](https://field-service-management-ui.vercel.app/login)
 
 - **[UI](https://github.com/senmai121/field_service_management_ui)** — _No description_
 - **[API](https://github.com/senmai121/field_service_management_api)** — _No description_
@@ -106,7 +106,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-05-01 01:50 UTC</sub>
+<sub>🤖 Auto-updated: 2026-05-02 01:27 UTC</sub>
 <!-- PROJECTS_END -->
 
 
