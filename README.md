@@ -64,10 +64,10 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 <!-- PROJECTS_START -->
 ### 📦 Sales Analyzer · [🌐 Live](https://sales-analyzer-ui.vercel.app)
 
-- **[API](https://github.com/senmai121/sales_analyzer_api)** — _No description_
 - **[UI](https://github.com/senmai121/sales-analyzer-ui)** — _No description_
+- **[API](https://github.com/senmai121/sales_analyzer_api)** — _No description_
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
@@ -106,7 +106,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-05-20 02:01 UTC</sub>
+<sub>🤖 Auto-updated: 2026-05-21 02:00 UTC</sub>
 <!-- PROJECTS_END -->
 
 
