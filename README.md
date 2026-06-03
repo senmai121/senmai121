@@ -106,7 +106,7 @@ ERP work demands more than code — it trains you to map end-to-end business pro
 ---
 
 
-<sub>🤖 Auto-updated: 2026-06-02 02:29 UTC</sub>
+<sub>🤖 Auto-updated: 2026-06-03 02:34 UTC</sub>
 <!-- PROJECTS_END -->
 
 
